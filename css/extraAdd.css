@@ -6,3 +6,8 @@
     border-radius: 10px;
     height: 98%;
 }
+
+.author-block a{
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+}
